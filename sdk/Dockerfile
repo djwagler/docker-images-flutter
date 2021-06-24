@@ -1,4 +1,4 @@
-FROM cirrusci/android-sdk:30
+FROM circleci/android:api-30-ndk
 
 USER root
 
